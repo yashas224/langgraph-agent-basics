@@ -32,6 +32,7 @@ graph Defination - main.py
 
 LangSmith Trace - <br>
 https://smith.langchain.com/public/1d502442-90e5-4422-b7a9-8d16876362b8/r/019f2dfc-a3e8-7c41-85cc-cbabf5e48bb8
+![](assets/demo-trace.png)<br>
 
 
 Execution:
